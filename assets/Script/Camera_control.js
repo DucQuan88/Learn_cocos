@@ -7,6 +7,7 @@ cc.Class({
         Player_Node: cc.Node,
         bg_layer_back:cc.Node,
         bg_layer_mid:cc.Node,
+        
     },
 
     update (dt) {
