@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "bfcf762a-ee05-48bd-89f7-418bc60e5854",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 761,
+  "height": 1051,
+  "platformSettings": {},
+  "subMetas": {
+    "luffy_chibi": {
+      "ver": "1.0.4",
+      "uuid": "b2040ea7-10d0-4d07-b7c7-db7a52fced1f",
+      "rawTextureUuid": "bfcf762a-ee05-48bd-89f7-418bc60e5854",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": -1.5,
+      "trimX": 5,
+      "trimY": 17,
+      "width": 739,
+      "height": 1020,
+      "rawWidth": 761,
+      "rawHeight": 1051,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

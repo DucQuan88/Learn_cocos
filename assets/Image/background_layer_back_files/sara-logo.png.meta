@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0da0474d-7fe5-4e84-bdbf-25324317e25a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 40,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "sara-logo": {
+      "ver": "1.0.4",
+      "uuid": "f5832d7f-30ec-4936-8129-d58bd549d7a3",
+      "rawTextureUuid": "0da0474d-7fe5-4e84-bdbf-25324317e25a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 62,
+      "rawWidth": 40,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
