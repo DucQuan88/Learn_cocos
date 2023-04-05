@@ -7,7 +7,9 @@ cc.Class({
     },
 
     Remove_bomb() {
+
         this.node.destroy();
+        
     }
 
 });
