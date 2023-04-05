@@ -6,8 +6,6 @@ cc.Class({
 
     },
 
-   
-
     onLoad () {
 
         let physics_manager = cc.director.getPhysicsManager();
