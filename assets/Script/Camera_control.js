@@ -5,9 +5,7 @@ cc.Class({
     properties: {
        
         Player_Node: cc.Node,
-
         bg_layer_back:cc.Node,
-        
         bg_layer_mid:cc.Node,
     },
 
